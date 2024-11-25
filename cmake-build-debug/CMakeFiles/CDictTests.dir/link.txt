@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/CDictTests.dir/tests/cdict_test.c.o CMakeFiles/CDictTests.dir/src/cdict.c.o CMakeFiles/CDictTests.dir/tests/test_utils.c.o -o CDictTests 

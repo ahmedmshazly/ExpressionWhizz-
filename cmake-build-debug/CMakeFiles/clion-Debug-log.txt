@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/s/CR_2024CMU_ECE/SEM_202408_Y1_FALL/CR_202408_(04800-I)_ISSE/CR_202408_ISSE_ASS/local/11/ExpressionWhizz++ -B /mnt/s/CR_2024CMU_ECE/SEM_202408_Y1_FALL/CR_202408_(04800-I)_ISSE/CR_202408_ISSE_ASS/local/11/ExpressionWhizz++/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/s/CR_2024CMU_ECE/SEM_202408_Y1_FALL/CR_202408_(04800-I)_ISSE/CR_202408_ISSE_ASS/local/11/ExpressionWhizz++/cmake-build-debug
